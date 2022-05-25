@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @newdicer
+- 👀 I’m interested in game development, web-development
+- 🌱 I’m currently learning Python
